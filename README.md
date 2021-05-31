@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhwan-phadtare
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react, flutter
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
